@@ -8,5 +8,6 @@ int main (){
 	int a;
 	cin>>a;
 	cout<<a;
+	// salam
 	return 0;
 }
